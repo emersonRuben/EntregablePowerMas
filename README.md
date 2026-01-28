@@ -95,3 +95,7 @@ EntregablePowerMas/
 ├── Database/                   # Scripts SQL
 └── README.md                   # Este manual
 ```
+
+## 7. Video Demo
+
+https://youtu.be/_aA5nAvG0b4
